@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p.{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400px;
+    margin: 2rem;
+    font-size: 45px;
+    background-color: rgb(29, 29, 151);
+}
